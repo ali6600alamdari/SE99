@@ -12,3 +12,19 @@ permalink: /syllabus/
 *  Introduction to Software Testing
 *  Introductory introduction to project management and planning
 *  System design and software architecture
+
+
+
+# List of topics
+1. Introduction to Software Engineering and its Challenges
+2. Software development process models and their differences
+3. Software analysis and design methods
+4. Needs Engineering and System Analysis
+5. System design and software architecture
+6. software development
+7. Introduction to Software Testing
+8. Introductory introduction to project management and planning
+
+
+
+
