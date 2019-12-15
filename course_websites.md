@@ -6,4 +6,4 @@ permalink: /course_websites/
 
 | # |       Course Name                      |   Instructor    | Student Name    | Website URL          |
 |---|:--------------------------------------:|:---------------:|:----------------|---------------------:|
-| 1 | College Orientation and Student Skills |     Eetemadi    |   Pariya Fesahat| https://sauleh.github.io/co98 |
+| 1 | Systems Analysis and Design            |Dr.Behrouz Minaei|   ali alamdari  | https://ali6600alamdari.github.io/course_template/ |
