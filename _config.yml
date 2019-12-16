@@ -4,7 +4,7 @@ course_name: Systems Analysis and Design
 course_description: The purpose of this course is to familiarize students with the concepts of software systems analysis and design. Projects get to know each other.
 course_semester: "Fall 2019"
 description: |
-    Instructor: Zhila Sadati
+    Instructor: Dr. Behrouz Minaei Bidgoli
 
 message: #Please register to our Google <a href="https://groups.google.com/forum/#!forum/gp-id">groups page</a> to get course notifications via email.
 baseurl: "/course_template" # the subpath of your site, e.g. /blog/
@@ -13,7 +13,7 @@ syllabus:
 githubdir: 
 
 # Author/user information
-email: instructor-first-name@iust.ac.ir
+email: b_minaei@iust.ac.ir
 twitter_username: broken_twitter 
 github_username:  broken_github
 authorurl: "http://borken-url.github.io"
