@@ -32,8 +32,7 @@ Introduction to Malware Engineering:
 # Required Software
 * Programming Environment in an Object Oriented Language - UML Modeling Tool
 
-# Other references
-* David L. Olson, Information System Project Management. McGrawHill, 2114
+
 
 
 
