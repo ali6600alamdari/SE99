@@ -4,26 +4,24 @@ title: Syllabus
 permalink: /syllabus/
 ---
 # Students who successfully complete this course will have a good insight into:
-*  Introduction to Software Engineering and its Challenges
-*  Software development process models and their differences
-*  Software analysis and design methods
-*  Needs Engineering and System Analysis
-*  software development
-*  Introduction to Software Testing
-*  Introductory introduction to project management and planning
-*  System design and software architecture
+*    Applying engineering methods to create high quality product
+*    Follow the well-known software engineering processes
+*    Application of software architecture design methods
+*    Software testing at various levels  
 
 
 
 # List of topics
-1. Introduction to Software Engineering and its Challenges
-2. Software development process models and their differences
-3. Software analysis and design methods
-4. Needs Engineering and System Analysis
-5. System design and software architecture
-6. software development
-7. Introduction to Software Testing
-8. Introductory introduction to project management and planning
+Introduction to Malware Engineering:
+1. Software Development Processes and Models - Repeat-based Development
+2. Software Analysis Overview
+3. Software design: Design principles, templates, refactoring
+4. Software Architecture: Design, Documentation and Evaluation
+5. Software Testing
+6. Software Quality Management
+7. Estimation of cost and time
+8. Project Management - Human Resources Management - Risk Management
+9. Life Cycle Management - Change Management - Configuration Management
 
 
 # Suggested scoring
