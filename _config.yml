@@ -14,7 +14,7 @@ description: |
     Instructor: Dr. Behrouz Minaei Bidgoli
 
 message: #Please register to our Google <a href="https://groups.google.com/forum/#!forum/gp-id">groups page</a> to get course notifications via email.
-baseurl: "/SE98" # the subpath of your site, e.g. /blog/
+baseurl: "/SE99" # the subpath of your site, e.g. /blog/
 url: "http://sauleh.github.io/course_template" # the base hostname & protocol for your site
 syllabus: 
 githubdir: 
