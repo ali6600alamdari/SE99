@@ -12,6 +12,46 @@ permalink: /schedule/
             <div class="col col-2">Description</div>
             <div class="col col-4">Course Material</div>
         </li>
+        
+            <div class="col col-1" data-label="Event">Lecture</div>
+            <div class="col col-1-2" data-label="Date">
+                
+            </div>
+            <div class="col col-2" data-label="Description">
+                01 - Intro
+                <div class="schedule-lecture-links">
+                    <div>
+
+
+
+
+                        [<a title="Download pdf (pdf)" href="
+    
+     
+    ">pdf</a>]
+
+
+
+
+
+
+
+
+
+
+
+                    </div>
+
+                </div>
+            </div>
+            <div class="col col-4" data-label="Course Material">
+
+
+
+
+
+            </div>
+        
         {% assign all_events = site.events | concat: site.lectures %}
         {% assign all_events = all_events | concat: site.assignments %}
         {% assign all_events_sorted = all_events | sort: 'date' %}
