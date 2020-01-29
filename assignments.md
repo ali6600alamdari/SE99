@@ -17,3 +17,13 @@ permalink: /assignments/
       </li>
 {% endfor %}
 </ul>
+
+
+Filename                              | Count |      Bytes |    Time
+--------------------------------------+-------+------------+--------
+
+# performance on docs.docker.com from ~Feb 2017
+_includes/toc.html                    |   813 |    524.17K |  6.422
+
+# performance on the "Minimal Mistakes" Jekyll theme
+_includes/toc.html                    |    94 |     29.43K |  0.413
