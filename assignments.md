@@ -18,12 +18,22 @@ permalink: /assignments/
 {% endfor %}
 </ul>
 
-
-Filename                              | Count |      Bytes |    Time
---------------------------------------+-------+------------+--------
-
-# performance on docs.docker.com from ~Feb 2017
-_includes/toc.html                    |   813 |    524.17K |  6.422
-
-# performance on the "Minimal Mistakes" Jekyll theme
-_includes/toc.html                    |    94 |     29.43K |  0.413
+<ul class="section-nav">
+  <li class="toc-entry toc-h1"><a href="#heading1">Heading.1</a>
+    <ul>
+      <li class="toc-entry toc-h2"><a href="#heading1-1">Heading.1-1</a></li>
+      <li class="toc-entry toc-h2"><a href="#heading1-2">Heading.1-2</a></li>
+    </ul>
+  </li>
+  <li class="toc-entry toc-h1"><a href="#heading2">Heading.2</a>
+    <ul>
+      <li class="toc-entry toc-h2"><a href="#heading2-1">Heading.2-1</a>
+        <ul>
+          <li class="toc-entry toc-h3"><a href="#heading2-1-1">Heading.2-1-1</a></li>
+          <li class="toc-entry toc-h3"><a href="#heading2-1-2">Heading.2-1-2</a></li>
+        </ul>
+      </li>
+      <li class="toc-entry toc-h2"><a href="#heading2-2">Heading.2-2</a></li>
+    </ul>
+  </li>
+</ul>
