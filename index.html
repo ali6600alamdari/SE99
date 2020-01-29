@@ -40,6 +40,10 @@ comments: true
         <div style="width:70%; float: left">
             <div class="profile-pic-gallary ">
                 <h2>Teaching Assistants</h2>
+                <div class="image--cover-container">
+                    <img src="/course_template/_images/avatar1.png" class="image--cover">
+                    <p>Amir Mohammadi</p>
+                </div>
                 {% for ta in site.data.people.teaching_assistants %}
                 <div class="image--cover-container">
                     <img src="{{ta.profile_pic | prepend: site.baseurl }}" class="image--cover">
