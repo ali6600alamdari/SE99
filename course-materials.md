@@ -11,5 +11,5 @@ permalink: /course-materials/
 -------------------------------------------------------------------------------------------------------------------------
 <div class="resource--image-cover-container">
             <img src="/SE99/_images/en.jpg" width="250" class="resource--image-cover">
-            <p><a href="hhttp://index-of.co.uk/Engineering/Introduction%20to%20Software%20Engineering.pdf">textbook by Ivan Marsic</a></p>
+            <p><a href="hhttp://index-of.co.uk/Engineering/Introduction%20to%20Software%20Engineering.pdf">Introduction toSoftwareEngineeringSecond Edition</a></p>
 </div>
